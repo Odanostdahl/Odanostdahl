@@ -1,10 +1,28 @@
-Hi, I’m @Odanostdahl and im currently a student at Kristiania studying programming:)
+## About me
+Hi, I´m @Odanostdahl and I´m currently in my second year of a Bachelor's degree in programming at Kristiania. Throughout my studies, I have developed skills in multiple programming languages, system development, and web technologies. 
+
+Beyond academics, I’m passionate about creating a more inclusive tech environment. I actively contribute to this through my role as co-leader on the board of Kvinner&IT💓
 
 
+## Høyskolen Kristiania - programming bachelor
+### First semester
+- Creative web projects
+- Introduction to programming
+- Digital technology
+- Databases
 
-Programmeringsspråk: Java, Python, C++, JavaScript (React/AngularJS), muligens C# (.NET)
-Backend-rammeverk: Spring, Hibernate, .NET, Node.js/Express.js
-Frontend-rammeverk: React, AngularJS
-API-er: RESTful API-er, GraphQL
-Verktøy: Maven, Gradle, Jenkins, Git, JUnit, Mockito
-Smidig metodikk: Scrum
+### Second semester
+- Algorithms and data structures
+- Object-oriented programming
+- Information security
+
+### Third Semester 
+- Backend programming
+- Web development and api design
+- Software design
+
+### Fourth semester
+- IT project management
+- Unity game programming
+- Python programming
+
