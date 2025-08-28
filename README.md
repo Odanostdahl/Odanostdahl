@@ -1,5 +1,5 @@
 ## About me
-Hi, I´m @Odanostdahl and I´m currently in my second year of a Bachelor's degree in programming at Kristiania. Throughout my studies, I have developed skills in multiple programming languages, system development, and web technologies. 
+Hi, I´m @Odanostdahl and I´m currently in my third year of a Bachelor's degree in programming at Kristiania. Throughout my studies, I have developed skills in multiple programming languages, system development, and web technologies. 
 
 Beyond academics, I’m passionate about creating a more inclusive tech environment. I actively contribute to this through my role as co-leader on the board of Kvinner&IT💓
 
